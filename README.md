@@ -1,2 +1,1 @@
-# hello-github
-my first git hub repository
+My First Commit
